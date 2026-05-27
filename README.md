@@ -1,5 +1,5 @@
 # Multimodal Emotion Recognition (MER) Pipeline
-Designed for the IIITH Research Program Evaluation.
+
 
 ## 🚀 How To Run
 1. Run `models/speech_pipeline/train.py` to evaluate speech features.
